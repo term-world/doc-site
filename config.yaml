@@ -1,7 +1,7 @@
-baseURL = '/'
-languageCode = 'en-us'
-title = 'term-world'
-theme="geekdoc"
+baseURL: '/'
+languageCode: 'en-us'
+title: 'term-world'
+theme: "geekdoc"
 
 pygmentsUseClasses: true
 pygmentsCodeFences: true
